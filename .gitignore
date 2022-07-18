@@ -1,3 +1,5 @@
+notepad*
+
 venv/
 
 *.pyc
@@ -12,3 +14,7 @@ htmlcov/
 dist/
 build/
 *.egg-info/
+
+*.json
+
+*.ini
