@@ -1,1 +1,1 @@
-from scripts.weather_api import get_json_data
+from scripts.utilities import get_json_data, get_footer_time
